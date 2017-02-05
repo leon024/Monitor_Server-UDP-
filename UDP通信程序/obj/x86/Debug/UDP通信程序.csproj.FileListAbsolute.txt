@@ -28,3 +28,13 @@ C:\Users\Administrator\Desktop\UDP通信程序\UDP通信程序\obj\x86\Debug\UDP
 C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\bin\Debug\UDP通信程序.exe.config
 C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.exe
 C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.pdb
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\bin\Debug\UDP通信程序.exe.manifest
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\bin\Debug\UDP通信程序.application
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\bin\Debug\UDP通信程序.exe
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\bin\Debug\UDP通信程序.pdb
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.csprojResolveAssemblyReference.cache
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.UDPserverForm.resources
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.Properties.Resources.resources
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.csproj.GenerateResource.Cache
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.exe.manifest
+C:\Users\leon\Documents\GitHub\Monitor_Server-UDP-\UDP通信程序\obj\x86\Debug\UDP通信程序.application

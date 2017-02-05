@@ -41,7 +41,7 @@ namespace UDP通信程序
                     break;
                 }
             }
-            textBoxHostIp.Text="121.42.185.160";
+            textBoxHostIp.Text="10.104.45.80";
         }
 
         private void udpListen()//监听，线程的实际代码
@@ -112,20 +112,20 @@ namespace UDP通信程序
 
                     
                      StreamWriter sw;
-                    if (Directory.Exists("D:/Monitor/"+SID+"/")== false)//如果不存在就创建file文件夹{
-                        Directory.CreateDirectory("D:/Monitor/" + SID + "/");
+                    if (Directory.Exists("C:/Monitor/"+SID+"/")== false)//如果不存在就创建file文件夹{
+                        Directory.CreateDirectory("C:/Monitor/" + SID + "/");
 
 
-                    if (File.Exists("D:/Monitor/" + SID + "/" + filename) == false)
+                    if (File.Exists("C:/Monitor/" + SID + "/" + filename) == false)
                     {
-                        File.Create("D:/Monitor/" + SID + "/" + filename).Close();//创建该文件
-                        sw = File.AppendText("D:/Monitor/" + SID + "/" + filename);
+                        File.Create("C:/Monitor/" + SID + "/" + filename).Close();//创建该文件
+                        sw = File.AppendText("C:/Monitor/" + SID + "/" + filename);
 
                           sw.Write("{\"T\":[{\"time\":\"" + DateTime.Now.ToLongTimeString() + "\",\"temprature\":\"" + receivedStr + "\"}");
                     sw.Close();
                         
                     }
-                    sw = File.AppendText("D:/Monitor/" + SID + "/" + filename);
+                    sw = File.AppendText("C:/Monitor/" + SID + "/" + filename);
 
                     //sw.Write(Get_DateTime() + "<t>" + receivedStr + "</t>" + "\r\n");
                         sw.Write(",{\"time\":\""+DateTime.Now.ToLongTimeString()+"\",\"temprature\":\""+receivedStr+"\"}");
